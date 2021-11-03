@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>principal</title>
+    <link rel="stylesheet" href="css/est.css">
+</head>
+<body> 
+    <header>
+        <h1>Conociendo Etiquetas Básicas de HTML,
+            atributos y valores.</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>Inicio</li>
+            <li>Temas
+                <ul>
+                    <li>tema 1 </li>
+                    <li>tema 2</li>
+                </ul>
+            </li>
+            <li>Recursos digitales
+                <ul>
+                    <li>recurso 1</li>
+                    <li>recurso 2</li>
+                </ul>
+            </li>
+            <li>Aprendizaje
+                <ul>
+                    <li>Aprendizaje 1</li>
+                    <li>Aprendizaje 2</li>
+                </ul>
+            </li> 
+            <li>Acerca de
+                <ul>
+                    <li>Autor</li>
+                </ul> 
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h4>Propósito del sitio</h4>
+            <p>el proposito de esta página es elaborar recursos educativos digitales para apoyar las estrategias de
+                aprendizaje en cuanto a etiquetas Básicas de HTML,
+                atributos y valores.  </p>
+                <article>
+                    <h4>Etiquetas basicas de html</h4>
+                 <img src="img/img1.jpg" alt="descripción" >
+                 <p>tomada de: https://websgalicia.es/blog/etiquetas-html/</p>
+                 <p>
+                    <p>Las etiquetas HTML son indicadores del lenguaje de marcas de hipertexto (o HTML, por sus siglas en inglés)</p> 
+                    <p>que le dan formato y estructura al contenido de las páginas web. Es un estándar adoptado</p> 
+                    <p>por todos los desarrolladores que, mediante etiquetas de texto, le permite a los navegadores interpretar</p> 
+                    <p>los elementos de una página web, no importa en dónde, cuándo o en qué idioma fue creada, para mostrar su contenido a los usuarios.</p>
+                     
+                     
+                     
+                     
+                     <p><h6>Prescott, P. (2015). HTML 5. Babelcube Inc..</h6></p>
+                 </p>
+                </article>
+                <article>
+                    <h4>Atributos y valores</h4>
+                    <img src="img/img2.png" alt="ejemplo">
+                    <p>tomado de: https://www.purotip.com/2018/08/los-atributos-html-mas-usados.html</p>
+                    <p>
+                        <p>Atributos</p> 
+                        <p> Los atributos en HTML se pueden considerar como información adicional</p>
+                        <p> que se coloca siempre en la etiqueta de apertura, esto para añadir, </p>
+                        <p>complementar información o significado al elemento HTML al que estamos colocando</p>
+                                <p>Lista de los atributos más usados en HTML</p>
+                                <p>Id =” ”: Para identificar un elemento único.</p>
+                                <p>class =” ”: Identificador múltiple.</p>
+                                <p>align =” ”: Alineación de contenido.</p>
+                                <p>border =” ”: Para darle borde al contenido.</p>
+                                <p>style =” ”: Para darle un estilo al contenido .</p>
+                                <p> background-color =” ”: Para color de fondo.</p>
+                                <p>href =” ”: Para enlaces html.</p>
+                                <p>height =” ”: Para determinar altura.</p>
+                                <p>width =” ”: Para determinar ancho.</p>
+                                <p>src=“ ”: Para imágenes.</p>
+
+                          
+                  
+                  
+                  
+                    </p><h6>Ojeda, F. C. (2005). La biblia de HTML. Anaya Multimedia.</h6>
+                </article>
+        </section>
+        <aside>Este lateral
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Ffacebook.com%2FUniversidadUNAD%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        </aside>
+    </main>
+    <footer>  <p>Correo: mary41997@hotmail.com <br>
+        Skype: mary41997 <br> 
+        fecha: 02 de Noviembre de 2021 </p></footer>
+</body>
+</html>
